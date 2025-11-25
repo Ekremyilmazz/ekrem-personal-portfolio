@@ -10,7 +10,7 @@ export const Footer = () => {
             <a href="https://github.com/Ekremyilmazz" target="_blank">
               <FaGithub size={24} />
             </a>
-            <a href="www.linkedin.com/in/ekrem-yılmaz-309474205" target="_blank">
+            <a href="https://www.linkedin.com/in/ekrem-y%C4%B1lmaz-309474205/" target="_blank">
               <FaLinkedin size={24} />
             </a>
           </div>

@@ -1,12 +1,18 @@
-# React + Vite
+# My Portfolio Website
+A modern, responsive web application built with React and Vite, integrated with EmailJS for contact forms, and deployed with Cloudflare
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- React + Vite: Fast and modern front-end framework with hot module replacement.
+- EmailJS Integration: Send emails directly from the contact form without a backend.
+- Cloudflare Deployment: Optimized performance and security with global CDN.
+- Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
+- Clean Code: Modular components and organized folder structure for maintainability.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Tech Stack
+- Frontend: React, Vite, Tailwind CSS (if used)
+- Email Service: EmailJS
+- Hosting / CDN: Cloudflare Pages
+- Version Control: Git, GitHub
+  
+## 🌐 Live Demo (Vercel)
+- https://ekremyilmaz.pages.dev/
